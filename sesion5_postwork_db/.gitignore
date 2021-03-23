@@ -1,0 +1,5 @@
+node_modules/
+shemas/
+
+docker-compose.yaml
+Dockerfile
